@@ -72,21 +72,21 @@ http://103.190.85.38/hls/starJalsha.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-name="INDIA STAR JALSHA SDW" tvg-logo="https://i.imgur.com/ZHRsSJI.png" ,INDIA STAR JALSHA SDW
 http://103.190.85.38/hls/starJalsha.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-name="INDIA STAR JALSHA FHD 1" tvg-logo="https://i.imgur.com/MGmQzZQ.png" ,INDIA STAR JALSHA FHD 1
-http://103.132.181.118:82/play/a001
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2179.ts
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-name="INDIA STAR JALSHA FHD 2" tvg-logo="https://i.imgur.com/WyQDvH9.png" ,INDIA STAR JALSHA FHD 2
-http://103.132.181.118:82/play/a001
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/7951.ts
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-name="INDIA STAR JALSHA FHD 3" tvg-logo="https://i.imgur.com/MGmQzZQ.png" ,INDIA STAR JALSHA FHD 3
-http://103.132.181.118:82/play/a001
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/7951.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-name="INDIA STAR JALSHA MOVIES SD" tvg-logo="https://i.imgur.com/04WZgPL.png" ,INDIA STAR JALSHA MOVIES SD
 http://103.190.85.38/hls/zeemovie.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-name="INDIA STAR JALSHA MOVIES FHD" tvg-logo="https://i.imgur.com/ksX9PBn.png" ,INDIA STAR JALSHA MOVIES FHD
-http://103.132.181.118:82/play/a004
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2179.ts
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-name="INDIA ZEE BANGLA SD" tvg-logo="https://i.imgur.com/SynPfQL.png" ,INDIA ZEE BANGLA SD
-http://103.190.85.38/hls/zeebangla.m3u8
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/13980.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-name="INDIA ZEE BANGLA FHD 1" tvg-logo="https://i.imgur.com/wH5qQCF.png" ,INDIA ZEE BANGLA FHD 1
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2180.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-name="INDIA ZEE BANGLA FHD 2" tvg-logo="https://i.imgur.com/wH5qQCF.png" ,INDIA ZEE BANGLA FHD 2
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/13980.ts
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-name="INDIA ZEE BANGLA CINEMA SD" tvg-logo="https://i.imgur.com/frC9pI4.png" ,INDIA ZEE BANGLA CINEMA SD
 http://103.132.181.118:82/play/a00d
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-name="INDIA ZEE BANGLA CINEMA HD " tvg-logo="https://i.imgur.com/033JdTp.png" ,INDIA ZEE BANGLA CINEMA HD 
@@ -96,17 +96,17 @@ http://103.132.181.118:82/play/a00d
 #EXTINF:-1 group-title="KIDS" tvg-name="NICK" tvg-logo="https://i.imgur.com/OdBvA41.png" ,NICK
 http://103.141.2.37:25461/web/web/615
 #EXTINF:-1 group-title="KIDS" tvg-name="CN" tvg-logo="https://i.imgur.com/dYgdy6q.png" ,CN
-http://103.141.2.37:25461/web/web/616
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2352.ts
 #EXTINF:-1 group-title="KIDS" tvg-name="DISNEY SD 1" tvg-logo="https://i.imgur.com/FyeeFjg.png" ,DISNEY SD 1
-http://team-shonamia.ddns.net/disneysdhimu/index.m3u8
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2227.ts
 #EXTINF:-1 group-title="KIDS" tvg-name="DISNEY SD 2" tvg-logo="https://i.imgur.com/FyeeFjg.png" ,DISNEY SD 2
-http://team-shonamia.ddns.net/disneysdhimu/index.m3u8
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2227.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-name="DISNEY SD 3" tvg-logo="https://i.imgur.com/FyeeFjg.png" ,DISNEY SD 3
 http://103.84.57.155:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/3UlO8nE.png" ,DISNEY JUNIOR
-http://starshare.live:8080/live/Paul1/Paul1/19741.ts
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2229.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/V1RGHNJ.png" ,DISCOVERY KIDS
-http://MIXED INDIAMIXED INDIAMIXED INDIAX.m3u8
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/19005.ts
 #EXTINF:-1 group-title="SPORTS" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/DB2CIVo.png" ,T SPORTS
 http://103.141.2.37:25461/web/web/586
 #EXTINF:-1 group-title="SPORTS" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/QNTHws3.png" ,STAR SPORTS 1 HD
@@ -340,7 +340,7 @@ https://freeiptv25.netlify.app/live/bdix/app/Channeli.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="",DESH TV
 https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="",DURONTO
-https://freeiptv25.netlify.app/live/bdix/app/Duronto.m3u8
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2352.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="",DBC NEWS
 https://freeiptv25.netlify.app/live/bdix/app/DBC.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="",EKATTOR
