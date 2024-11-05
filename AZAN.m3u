@@ -367,3 +367,29 @@ https://freeiptv25.netlify.app/live/bdix/app/Ntv.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/Rtv.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-name="MIXED INDIA" ,RTV MUSIC
 https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,JOHN WICK 1
+http://45.250.20.254/collection/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/01%20-%20Iron%20Man%20%282008%29%201080p%20%5BDual%20Audio%5D/Iron%20Man%20%282008%29%201080p%20BluRay%20DTS%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,JOHN WICK 2
+http://45.250.20.254/collection/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/17%20-%20Thor-Ragnarok%20%282017%29%201080p%20%5BDual%20Audio%5D/Thor%20Ragnarok%20%282017%29%201080p%20BluRay%20DTS%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,JOHN WICK 3
+http://45.250.20.254/collection/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/26%20-%20Eternals%20%282021%29%201080p%20%5BDual%20Audio%5D/Eternals%20%282021%29%20IMAX%201080p%20DSNP-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,AVATOR 2 4K
+http://45.250.20.254/collection/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/24%20-%20Black%20Widow%20%282021%29%201080p%20%5BDual%20Audio%5D/Black%20Widow%20%282021%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,ANT-MAN 2 4K
+http://45.250.20.254/collection/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/28%20-%20Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%20%282022%29%201080p%20%5BDual%20Audio%5D/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%20%282022%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,BLACK PANTHER 2 4K
+http://45.250.20.254/collection/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/32%20-%20Guardians%20of%20the%20Galaxy%20Vol.%203%20%282023%29%201080p%20%5BDual%20Audio%5D/Guardians%20of%20the%20Galaxy%20Vol.%203%20%282023%29%20IMAX%201080p%20BluRay%20x265%20HEVC%20MEub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,MISSION IMPOSSIBLE DEAD RECKONING PART 1
+http://45.250.20.254/collection/Movies/Exclusive%20Full%20HD/Hindi/Raees%20%282017%29%201080p%20TrueHD%20BluRay.mkv
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,JAWAN
+http://45.250.20.254/collection/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/33%20-%20The%20Marvels%20%282023%29%201080p%20%5BDual%20Audio%5D/The%20Marvels%20%282023%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%207.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,OMG 2
+http://45.250.20.254/collection/Movies/Exclusive%20Full%20HD/Hindi/Race%202%20%282013%29%201080p%20Full%20HD%20BluRay.mkv
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,LEO
+http://45.250.20.254/collection/English%20Movies%20%281080p%29/%282019%29%201080p/Alita-Battle%20Angel%20%282019%29%201080p/Alita.Battle.Angel.2019.1080p.BluRay.AC3.x264-MkvCage.Com.mkv
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,TRIAL PRIOD
+http://45.250.20.254/collection/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/12%20-%20Ant-Man%20%282015%29%201080p%20%5BDual%20Audio%5D/Ant-Man%20%282015%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-Ranvijay.mkv
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,THE MONKEY KING
+http://10.10.10.1:8080/D%3A/Movie/Animation/The.Monkey.King.2023.1080p.264-.mkv
+#EXTINF:-1 group-title="MOVIE" tvg-name="MOVIE" tvg-logo="https://i.imgur.com/Z3blDJN.png" ,SURONGO
+http://45.250.20.254/collection/English%20Movies%20%281080p%29/%282019%29%201080p/Aladdin%20%282019%29%201080p/Aladdin%20%282019%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%207.1%20MSubs-Tigole.mkv
