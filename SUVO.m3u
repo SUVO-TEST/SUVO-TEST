@@ -1,38 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="NICK HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",NICK HINDI
+#EXTINF:-1 tvg-id="" tvg-name="NICK HINDI"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",NICK HINDI
 http://on.deflix.xyz:8880/hasan19/hasan1519/4752
-#EXTINF:-1 tvg-id="" tvg-name="NICK SONIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"   group-title="KIDS",NICK SONIC
+#EXTINF:-1 tvg-id="" tvg-name="NICK SONIC"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"    group-title="KIDS",NICK SONIC
 http://on.deflix.xyz:8880/hasan19/hasan1519/4530
-#EXTINF:-1 tvg-id="" tvg-name="NICK HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",NICK HD+
+#EXTINF:-1 tvg-id="" tvg-name="NICK HD+"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",NICK HD+
 http://on.deflix.xyz:8880/hasan19/hasan1519/4778
-#EXTINF:-1 tvg-id="291" tvg-name="SONY YAY!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",SONY YAY!
+#EXTINF:-1 tvg-id="291" tvg-name="SONY YAY!"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",SONY YAY!
 http://on.deflix.xyz:8880/hasan19/hasan1519/3357
-#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",HUNGAMA KIDS
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA KIDS" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"  group-title="KIDS",HUNGAMA KIDS
 http://on.deflix.xyz:8880/hasan19/hasan1519/4240
-#EXTINF:-1 tvg-id="" tvg-name="SUPER HUNGAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",SUPER HUNGAMA             
+#EXTINF:-1 tvg-id="" tvg-name="SUPER HUNGAMA"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",SUPER HUNGAMA             
 http://on.deflix.xyz:8880/hasan19/hasan1519/14394
-#EXTINF:-1 tvg-id="" tvg-name="POGO KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",POGO KIDS
+#EXTINF:-1 tvg-id="" tvg-name="POGO KIDS"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",POGO KIDS
 http://on.deflix.xyz:8880/hasan19/hasan1519/3355
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON " tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",NICKELODEON 
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON "tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",NICKELODEON 
 http://on.deflix.xyz:8880/hasan19/hasan1519/1420
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",DISCOVERY KIDS
 http://on.deflix.xyz:8880/hasan19/hasan1519/1826
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",DISNEY HINDI SD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI SD"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",DISNEY HINDI SD
 http://on.deflix.xyz:8880/hasan19/hasan1519/19780
-EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI HD BDIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",DISNEY HINDI HD BDIX
+EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI HD BDIX"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",DISNEY HINDI HD BDIX
 http://on.deflix.xyz:8880/hasan19/hasan1519/3360
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",DISNEY HINDI HD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI HD"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",DISNEY HINDI HD
 https://fifabd.xyz/OPLLX/play.m3u8?id=167551
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI HD XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",DISNEY HINDI HD XTREME
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI HD XTREME"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",DISNEY HINDI HD XTREME
 http://xtv.ooo:8080/kamran800/800kamran/167551
-#EXTINF:-1 tvg-id="" tvg-name=" DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS", DURONTO TV
+#EXTINF:-1 tvg-id="" tvg-name=" DURONTO TV"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS", DURONTO TV
 http://on.deflix.xyz:8880/hasan19/hasan1519/1778
-#EXTINF:-1 tvg-id="" tvg-name=" NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS", NICK JR
+#EXTINF:-1 tvg-id="" tvg-name=" DURONTO TV XTREME"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS", DURONTO TV XTREME
+http://xtv.ooo:8080/kamran800/800kamran/245955
+#EXTINF:-1 tvg-id="" tvg-name=" NICK JR"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS", NICK JR
 http://on.deflix.xyz:8880/hasan19/hasan1519/2965
-#EXTINF:-1 tvg-id="" tvg-name="NICK Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",NICK Jr
+#EXTINF:-1 tvg-id="" tvg-name="NICK Jr."tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",NICK Jr
 http://on.deflix.xyz:8880/hasan19/hasan1519/3432
-#EXTINF:-1 tvg-id="cartoonnetwork.in" tvg-name="CN INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",CN INDIA
+#EXTINF:-1 tvg-id="cartoonnetwork.in" tvg-name="CN INDIA"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",CN INDIA
 http://on.deflix.xyz:8880/hasan19/hasan1519/1534
-#EXTINF:-1 tvg-id="" tvg-name="CN ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",CN ENG
+#EXTINF:-1 tvg-id="" tvg-name="CN ENG"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",CN ENG
 http://on.deflix.xyz:8880/hasan19/hasan1519/1418
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="DISNEY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png"  group-title="KIDS",DISNEY SD
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="DISNEY SD"tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197374.png"   group-title="KIDS",DISNEY SD
