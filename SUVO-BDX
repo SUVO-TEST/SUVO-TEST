@@ -1,0 +1,211 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="Akash AATH" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,Akash AATH
+http://38.96.178.201/live/AkashAath/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="Colors Bangla" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,Colors Bangla
+http://38.96.178.201/live/ColorsBangla/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="STAR JALSHA" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,STAR JALSHA
+http://38.96.178.201/live/STARJALSHA/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="JALSHA MOVIES" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,JALSHA MOVIES
+http://38.96.178.201/live/JalshaMovies/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="SANGEET BANGLA" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,SANGEET BANGLA
+http://38.96.178.201/live/SangeetBangla/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="SONY AATH" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,SONNY AATH
+http://38.96.178.201/live/SonyAath/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="CHANNEL9" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,CHANNEL9
+http://38.96.178.201/live/Channel9/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="CHANNEL I" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,CHANNEL I
+http://38.96.178.201/live/ChannelI/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="CHANNEL S" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,CHAMPIONS S
+http://38.96.178.201/live/ChannelS/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="EKHON TV" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,EKHON TV
+http://38.96.178.201/live/EkhonTV/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="JAMUNA TV" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,JAMUNA TV
+http://38.96.178.201/live/JamunaTV/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="COLORS BANGLA" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,COLORS BANGLA
+http://38.96.178.201/live/ColorsBangla/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="DHOOM" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,DHOOM
+http://38.96.178.201/live/Dhoom/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="RUPOSHI BANGLA" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,RUPOSHI BANGLA
+http://38.96.178.201/live/RuposhiBangla/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="SANGEET BANGLA" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,SANGEET BANGLA
+http://38.96.178.201/live/SangeetBangla/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="SONY AATH" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,SONY AATH
+http://38.96.178.201/live/SonyAath/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="TSPORTS" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,TSPORTS
+http://38.96.178.201/live/TSports/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="DD SPORTS" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,DD SPORTS
+http://38.96.178.201/live/DDSports/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="ATN BANGLA" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,ATN BANGLA
+http://38.96.178.201/live/ATNBangla/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="ATN NEWS" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,ATN NEWS
+http://38.96.178.201/live/ATNNews/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="BANGLA TV" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,BANGLA TV
+http://38.96.178.201/live/BanglaTV/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="BANGLA VISION" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,BANGLA VISION
+http://38.96.178.201/live/BanglaVision/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="BIJOY TV" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,BIJOY TV
+http://38.96.178.201/live/BijoyTV/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="BTV" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,BTV
+http://38.96.178.201/live/BTV/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="EKHON TV" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,EKHON TV
+http://38.96.178.201/live/EkhonTV/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="NTV" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,NTV
+http://38.96.178.201/live/NTV/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="GAAN BANGLA" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,GAAN BANGLA
+http://38.96.178.201/live/GaanBangla/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="INDEPENDENT" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,INDEPENDENT
+http://38.96.178.201/live/Independent/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="NEXUS TV" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,NEXUS TV
+http://38.96.178.201/live/NexusTV/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="SATV" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,SATV
+http://38.96.178.201/live/SATV/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="SONY HD" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,SONY HD
+http://38.96.178.201/live/SonyHD/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="AND TV" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,AND TV
+http://38.96.178.201/live/AndTV/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="B4U MUSIC" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,B4U MUSIC
+http://38.96.178.201/live/B4UMusic/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="STAR PLUS HD" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,STAR PLUS HD
+http://38.96.178.201/live/StarPlus/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="STAR GOLD HD" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,STAR GOLD HD
+http://38.96.178.201/live/StarGold/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="ZING" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,ZING
+http://38.96.178.201/live/Zing/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="DISNEY" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,DISNEY
+http://38.96.178.201/live/Disney/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="SONY" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,SONY
+http://38.96.178.201/live/SONY/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="DISNEY XD" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,DISNEY XD
+http://38.96.178.201/live/DisneyXD/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="NICK JR" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,NICK JR
+http://38.96.178.201/live/NickJr/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="AKASH AATH" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,AKASH AATH
+http://38.96.178.201/live/AkashAath/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="COLOR BANGLA" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,COLOR BANGLA
+http://38.96.178.201/live/ColorsBangla/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="STAR JALSHA" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,STAR JALSHA
+http://38.96.178.201/live/STARJALSHA/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="JALSHA MOVIES" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,JALSHA MOVIES
+http://38.96.178.201/live/JalshaMovies/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="SANGEET BANGLA" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,SANGEET BANGLA
+http://38.96.178.201/live/SangeetBangla/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="SONY AATH" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,SONY AATH
+http://38.96.178.201/live/SonyAath/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="CHANNEL 9" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,CHANNEL 9
+http://38.96.178.201/live/Channel9/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="CHANNEL I" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,CHANNEL I
+http://38.96.178.201/live/ChannelI/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="CHANNEL S" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,CHAMPIONS S
+http://38.96.178.201/live/ChannelS/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="EKHON TV" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,EKHON TV
+http://38.96.178.201/live/EkhonTV/index.m3u8
+
+#EXTINF:-1 group-title="LIVE BANGLA TV" tvg-name="JAMUNA TV" tvg-logo="https://i.postimg.cc/mDTv2myx/000.png" ,JAMUNA TV
+http://38.96.178.201/live/JamunaTV/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="GAZI TV 1" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,GAZI TV 1
+http://38.96.178.201/live/GaziTV/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="GAZI TV 2" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,GAZI TV 2
+http://103.142.80.22:8080/t-sports/video.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="T SPORTS (MATCH TIME)" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,T SPORTS (MATCH TIME)
+http://103.142.80.22:8080/Channel-1/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="T SPORTS" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,T SPORTS
+http://38.96.178.201/live/TSports/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="T SPORTS 4K" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,T SPORTS 4K
+http://38.96.178.201/live/TSports/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="T SPORTS 1" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,T SPORTS 1
+http://38.96.178.201/live/TSports/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="T SPORTS 2" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,T SPORTS 2
+http://103.77.218.14:8082/Tsports-2/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="CHAMPIONS LEAGUE" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,CHAMPIONS LEAGUE
+http://38.96.178.201/live/FS1/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="FOX SPORTS 1" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,FOX SPORTS 1
+http://38.96.178.201/live/FS1/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="FOX SPORTS 2" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,FOX SPORTS 2
+http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="ESPN 1" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,ESPN 1
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,ESPN 2
+http://38.96.178.201/live/ESPN2/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="NBA" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,NBA
+http://38.96.178.201/live/NBA/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="MOTOR TREND HD US" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,MOTOR TREND HD US
+http://38.96.178.201/live/MotorTrend/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="ESPN U HD US" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,ESPN U HD US
+http://38.96.178.201/live/ESPNU/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="TENNIS FHD US" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,TENNIS FHD US
+http://38.96.178.201/live/TENNIS/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="FOX BUSINESS FHD US" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,FOX BUSINESS FHD US
+http://38.96.178.201/live/Z_Living/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="ZING" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,ZING
+http://38.96.178.201:80/live/Zing/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-name="MLB" tvg-logo="https://i.postimg.cc/4yt19g5m/OK.png" ,MLB
+http://38.96.178.201/live/MLB/index.m3u8
